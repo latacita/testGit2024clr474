@@ -12,6 +12,12 @@
     commit -m "Paso 03"
 (04)branch PrimeraRama
     checkout PrimeraRama
+(06)branch PrimeraRama
+    checkout PrimeraRama
+    
+(13)checkout SegundaRama
+(14)Recursiva, hay variaciones en ambas ramas
+(15)Fast-Forward, PrimeraRama contiene solo ampliaciones de master
 
 (11)stash
     checkout PrimeraRama
