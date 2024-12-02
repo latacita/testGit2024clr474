@@ -9,3 +9,10 @@
 (01)clone https://github.com/latacita/testGit2024clr474.git
 (02)
 
+(08)push origin SegundaRama
+(09)checkout master
+
+(17)checkout PrimeraRama
+(18)merge SegundaRama
+(19)checkout master
+(20)stash apply
