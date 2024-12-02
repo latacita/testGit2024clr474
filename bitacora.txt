@@ -8,4 +8,9 @@
 ====== ============================ ================================
 (01)clone https://github.com/latacita/testGit2024clr474.git
 (02)
+(03)add .
+    commit -m "Paso 03"
+(04)branch PrimeraRama
+    checkout PrimeraRama
+
 
