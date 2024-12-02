@@ -1,0 +1,13 @@
+%%==================================================================%%
+%% Alumno (Apellidos, Nombre): Lavín Ruiz, Carlos                   %%
+%%==================================================================%%
+
+ Paso   Acción                       Notas
+====== ============================ ================================
+(22)push origin master              Habia cambios en el repostiorio remoto
+    pull origin master              Habia conflicto en bitacora.txt
+    add .
+    commit -m "Conflicto resuelto"
+    push origin master
+(23)checkout SegundaRama
+(24)
