@@ -12,5 +12,6 @@
     commit -m "Paso 03"
 (04)branch PrimeraRama
     checkout PrimeraRama
-
+(06)branch PrimeraRama
+    checkout PrimeraRama
 
